@@ -1,0 +1,2 @@
+Username visited page: /test.exe
+Username visited page: /test.html
