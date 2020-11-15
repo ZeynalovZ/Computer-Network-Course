@@ -92,7 +92,7 @@ int main()
 		{
       perror_and_exit("recv()", 4);
     }
-	  printf("The server return to client this message:\n");
+	  printf("The server returned to client this message:\n");
     printf("%s\n\n", buf);
     close(sock);
 
